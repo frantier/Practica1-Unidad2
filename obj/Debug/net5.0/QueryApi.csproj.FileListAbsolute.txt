@@ -1,0 +1,60 @@
+C:\Home\QueryApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Home\QueryApi\bin\Debug\net5.0\appsettings.json
+C:\Home\QueryApi\bin\Debug\net5.0\dummy.data.queries.json
+C:\Home\QueryApi\bin\Debug\net5.0\QueryApi.exe
+C:\Home\QueryApi\bin\Debug\net5.0\QueryApi.deps.json
+C:\Home\QueryApi\bin\Debug\net5.0\QueryApi.runtimeconfig.json
+C:\Home\QueryApi\bin\Debug\net5.0\QueryApi.runtimeconfig.dev.json
+C:\Home\QueryApi\bin\Debug\net5.0\QueryApi.dll
+C:\Home\QueryApi\bin\Debug\net5.0\ref\QueryApi.dll
+C:\Home\QueryApi\bin\Debug\net5.0\QueryApi.pdb
+C:\Home\QueryApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Home\QueryApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Home\QueryApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Home\QueryApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.csproj.AssemblyReference.cache
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.AssemblyInfoInputs.cache
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.AssemblyInfo.cs
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.csproj.CoreCompileInputs.cache
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Home\QueryApi\obj\Debug\net5.0\staticwebassets\QueryApi.StaticWebAssets.Manifest.cache
+C:\Home\QueryApi\obj\Debug\net5.0\staticwebassets\QueryApi.StaticWebAssets.xml
+C:\Home\QueryApi\obj\Debug\net5.0\scopedcss\bundle\QueryApi.styles.css
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.RazorTargetAssemblyInfo.cache
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.csproj.CopyComplete
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.dll
+C:\Home\QueryApi\obj\Debug\net5.0\ref\QueryApi.dll
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.pdb
+C:\Home\QueryApi\obj\Debug\net5.0\QueryApi.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\dummy.data.queries.json
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\QueryApi.exe
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\QueryApi.deps.json
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\QueryApi.runtimeconfig.json
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\QueryApi.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\QueryApi.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\ref\QueryApi.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\QueryApi.pdb
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\staticwebassets\QueryApi.StaticWebAssets.Manifest.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\staticwebassets\QueryApi.StaticWebAssets.xml
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\scopedcss\bundle\QueryApi.styles.css
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.RazorTargetAssemblyInfo.cache
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.csproj.CopyComplete
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\ref\QueryApi.dll
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.pdb
+C:\Users\Pedro\Desktop\Uni Tareas\Aplicaciones web\QueryApi\obj\Debug\net5.0\QueryApi.genruntimeconfig.cache
